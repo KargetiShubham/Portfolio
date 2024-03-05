@@ -31,7 +31,7 @@ const Home = () =>{
             <h2>
                 Dot net Developer / Tech Enthusiast
             </h2>
-            <Link to="/contact" className='flat-button'>Contact Me</Link>
+            
         </div>   
         <Logo/> 
     </div>
